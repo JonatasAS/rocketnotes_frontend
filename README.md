@@ -26,16 +26,10 @@ You may be viewing the project through Figma project - [LINK](https://www.figma.
 - Axios
 - Vite
 - Styled-Components
-
-# Technologies used back-end
-- Node.JS 
-- Knex 
-- Express 
-- NPM
-- Axios
-- Sqlite
-- Insomnia / Test with API
-- Beekeeper / Bank manager
+- Hooks
+- Context
+- Authentication / JWT
+- Local Storage
 
 # Autor
 
